@@ -1,0 +1,9 @@
+[submodule "external/aap-core"]
+	path = external/aap-core
+	url = https://github.com/atsushieno/aap-core
+[submodule "external/aap-juce"]
+	path = external/aap-juce
+	url = https://github.com/atsushieno/aap-juce
+[submodule "external/ob-x-ae"]
+	path = external/ob-x-ae
+	url = https://github.com/atsushieno/ob-x-ae

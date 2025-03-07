@@ -1,0 +1,6 @@
+<devices>
+    <device name="OB-X-AE" manufacturer="androidaudioplugin.org" product="OB-X-AE">
+        <port name="port1" />
+    </device>
+</devices>
+
