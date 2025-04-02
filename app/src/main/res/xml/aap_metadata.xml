@@ -2,7 +2,7 @@
 
 <plugins xmlns="urn:org.androidaudioplugin.core">
   <plugin name="OB-X-AE" category="Instrument" author="Atsushi Eno"
-          developer="Atsushi Eno" unique-id="juceaap:4f504e41" library="libOB-X-AE_Standalone.so"
+          developer="Atsushi Eno" unique-id="juceaap:ob-x-ae" library="libOB-X-AE_Standalone.so"
           entrypoint="GetJuceAAPFactoryStandalone" gui:ui-view-factory="org.androidaudioplugin.ui.compose.ComposeAudioPluginViewFactory"
           xmlns:gui="urn://androidaudioplugin.org/extensions/gui">
     <extensions>
